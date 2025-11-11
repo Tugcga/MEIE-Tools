@@ -1,0 +1,9 @@
+.mypy_cache
+__pycache__
+bam_samples
+fonts
+iesh-master
+sounds
+sprites
+tool_internal.py
+build_bam.py

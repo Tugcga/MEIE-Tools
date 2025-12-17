@@ -13,10 +13,10 @@
 
 ### Screenshots
 
-[gameplay_01](./images/gameplay_01.gif)
+![gameplay_01](./images/gameplay_01.gif)
 
-[gameplay_02](./images/gameplay_02.gif)
+![gameplay_02](./images/gameplay_02.gif)
 
-[gameplay_03](./images/gameplay_03.gif)
+![gameplay_03](./images/gameplay_03.gif)
 
-[gameplay_04](./images/gameplay_04.gif)
+![gameplay_04](./images/gameplay_04.gif)

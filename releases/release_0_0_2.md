@@ -24,14 +24,14 @@ Original MEd20 contains many different feats, available for characters. We adopt
 
 ### Screenshots
 
-[create character](./images/ui_01.png)
+![create character](./images/ui_01.png)
 
-[select the race](./images/ui_02.png)
+![select the race](./images/ui_02.png)
 
-[select the class](./images/ui_03.png)
+![select the class](./images/ui_03.png)
 
-[define abilities](./images/ui_04.png)
+![define abilities](./images/ui_04.png)
 
-[upgrade skills](./images/ui_05.png)
+![upgrade skills](./images/ui_05.png)
 
-[select feat](./images/ui_06.png)
+![select feat](./images/ui_06.png)

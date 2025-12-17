@@ -115,7 +115,7 @@ def delete_bam(directory: str, bam_name: str, is_log: bool = False):
     for idx in linked_pvrz:
         file_path = directory + "MOS" + str(idx) + ".pvrz"
         if os.path.isfile(file_path):
-            if is_log
+            if is_log:
                 print("remove " + file_path)
             os.remove(file_path)
     if os.path.isfile(bam_file):
